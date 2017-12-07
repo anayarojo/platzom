@@ -1,6 +1,6 @@
 {
-  "name": "platzom",
-  "version": "0.1.0",
+  "name": "anayarojo-platzom",
+  "version": "0.1.1",
   "description": "Traductor de idioma platzom",
   "main": "dist/src/platzom.js",
   "scripts": {
@@ -12,6 +12,7 @@
     "url": "git+https://github.com/anayarojo/platzom.git"
   },
   "keywords": [
+    "anayarojo",
     "platzom",
     "platzi",
     "fundamentos",
